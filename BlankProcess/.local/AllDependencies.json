@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "BlankProcess",
       "projectName": "BlankProcess",
-      "projectPath": "C:\\Users\\bruna.delfino\\Documents\\UiPath\\BlankProcess\\.local",
+      "projectPath": "C:\\Users\\bruna.delfino\\Desktop\\RPA---UIPATH\\BlankProcess\\.local",
       "packagesPath": "C:\\Users\\bruna.delfino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruna.delfino\\Documents\\UiPath\\BlankProcess\\.local"
+      "outputPath": "C:\\Users\\bruna.delfino\\Desktop\\RPA---UIPATH\\BlankProcess\\.local"
     },
     "frameworks": {
       "net461": {

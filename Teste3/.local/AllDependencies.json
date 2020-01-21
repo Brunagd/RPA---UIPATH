@@ -1608,11 +1608,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "AutomatizaçãoAttendedBaseadaemAcionadores1",
-      "projectName": "AutomatizaçãoAttendedBaseadaemAcionadores1",
-      "projectPath": "C:\\Users\\bruna.delfino\\Desktop\\RPA---UIPATH\\AutomatizaçãoAttendedBaseadaemAcionadores1\\.local",
+      "projectUniqueName": "Teste3",
+      "projectName": "Teste3",
+      "projectPath": "C:\\Users\\bruna.delfino\\Documents\\UiPath\\Teste3\\.local",
       "packagesPath": "C:\\Users\\bruna.delfino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruna.delfino\\Desktop\\RPA---UIPATH\\AutomatizaçãoAttendedBaseadaemAcionadores1\\.local"
+      "outputPath": "C:\\Users\\bruna.delfino\\Documents\\UiPath\\Teste3\\.local"
     },
     "frameworks": {
       "net461": {
